@@ -19,7 +19,7 @@ In this approach I used genetic algorithm to create feature vectors. The method 
 #### Model Architecture 
 ![alt text](https://github.com/Dbhasin1/blood_cell_classification/blob/main/ga(1).jpg)
 #### Results 
-The implementation is done in https://colab.research.google.com/drive/1SVUUi1gALjEqPYskvJ5AJA7uqPoyci-E?usp=sharing. Applying a kNN Classifier on top of the extracted features gave me an accuracy of 73%
+The implementation is done in https://colab.research.google.com/drive/1SVUUi1gALjEqPYskvJ5AJA7uqPoyci-E?usp=sharing. Applying a kNN Classifier on top of the extracted features gave me an accuracy of 71%
 
 #### Scope for Improvement 
 • Genetic Algorithms are costly in computational terms since the evaluation of each individual requires the training of a model and these algorithms can take a long time to converge since they have a stochastic nature. Due to time limitations I had to decrease the number of iterations I ran the algorithm for. <br />
