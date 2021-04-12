@@ -17,7 +17,7 @@ My implementation achieved an accuracy of 85%, the individual precision, recall 
 
 In this approach I used genetic algorithm to create feature vectors. The method is based on PCA-generated features to define initial population for genetic evolution. This is followed by the genetic evolution and finding significance of individual feature components. The feature vectors are then weighted according to their significance. The initial extraction of features was done from RBC images using VGGNet. 
 #### Model Architecture 
-![alt text](https://github.com/Dbhasin1/blood_cell_classification/blob/main/ga.jpg)
+![alt text](https://github.com/Dbhasin1/blood_cell_classification/blob/main/ga(1).jpg)
 #### Results 
 The implementation is done in https://colab.research.google.com/drive/1SVUUi1gALjEqPYskvJ5AJA7uqPoyci-E?usp=sharing. Applying a kNN Classifier on top of the extracted features gave me an accuracy of 73%
 
