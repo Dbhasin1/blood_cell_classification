@@ -22,8 +22,8 @@ In this approach I used genetic algorithm to create feature vectors. The method 
 The implementation is done in https://colab.research.google.com/drive/1SVUUi1gALjEqPYskvJ5AJA7uqPoyci-E?usp=sharing. Applying a kNN Classifier on top of the extracted features gave me an accuracy of 73%
 
 #### Scope for Improvement 
-• Genetic Algorithms are costly in computational terms since the evaluation of each individual requires the training of a model and these algorithms can take a long time to converge since they have a stochastic nature. Due to time limitations I had to decrease the number of iterations I ran the algorithm for. 
-• Feature selection could have been enhanced by applying statistical operations to exclude irrelevant and noisy features, and by making it more computationally efficient and stable
+• Genetic Algorithms are costly in computational terms since the evaluation of each individual requires the training of a model and these algorithms can take a long time to converge since they have a stochastic nature. Due to time limitations I had to decrease the number of iterations I ran the algorithm for. <br />
+• Feature selection could have been enhanced by applying statistical operations to exclude irrelevant and noisy features, and by making it more computationally efficient and stable. <br />
 
 
 
