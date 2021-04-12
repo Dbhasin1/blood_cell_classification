@@ -1,6 +1,6 @@
 # blood cell image classification 
 In this repository I take up the task of classifying red blood cells into four different classes, namely - Eosinophil, Lymphocyte, Monocyte, and Neutrophil. 
-I undertook two different approaches, one depends on the neural network architecture to extract the features from the blood cells and then classify them whereas the other utilises a heuristic search algorithm based on the concepts of natural selection and genetic to select features followed by a KNN-Classifier to classify the blood-cells.
+I undertook two different approaches, one depends on the neural network architecture to extract the features from the blood cells and then classify them whereas the other utilises a heuristic search algorithm based on the concepts of natural selection and genetics to select features followed by a KNN-Classifier to classify the blood-cells.
 
 ### Approach 1 - Combining Convolutional Neural Network With Recursive Neural Network
 
